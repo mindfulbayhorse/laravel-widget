@@ -3,11 +3,10 @@
     "description": "Package for learning",
     "license": "MIT",
     "type": "library",
-    "version": "1.0-dev",
     "authors": [
         {
-            "name": "Author Name",
-            "email": "author@email.com"
+            "name": "Olga Zhilkova",
+            "email": "mindfulbayhorse@gmail.com"
         }
     ],
     "keywords": ["Laravel", "Widget"],
